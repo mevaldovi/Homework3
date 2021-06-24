@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 662c68eda8421ff30bf029457b27594971429773
 # Homework3
 
 ##The purpose of this project was to challenge the status quo of current Password Generators.
@@ -19,4 +23,8 @@ The following backdrop images were used: img src =(./Assets/03-javascript-homewo
 
 
 # Collaborators
+<<<<<<< HEAD
 And many thanks to  my classmates Brandon, Jessamyn McTwigan, Jacob Guiro, Rico Perez, Carlos Perez, & Dave "Spoon"  for helping me out & sharing their ideas to push me to improve me more than I ever thought I could.
+=======
+And many thanks to  my classmates Brandon, Jessamyn McTwigan, Jacob Guiro, Rico Perez, Carlos Perez, & Dave "Spoon"  for helping me out & sharing their ideas to push me to improve me more than I ever thought I could.
+>>>>>>> 662c68eda8421ff30bf029457b27594971429773
