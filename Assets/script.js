@@ -124,11 +124,11 @@ function generatePassword(){
     }
 
     return password;
-
+    
     
 }
-
-    alert('Do you want to play again?!')
+    
+    
 
 
 
