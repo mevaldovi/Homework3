@@ -8,15 +8,10 @@ The purpose of this project was to challenge the status quo of current Password 
 # General info
 *Warning label: NOT your average password generator. This one includes some smart humor, interactive acknowledgement of user choices, and now includes special characters as well as all the number combinations! It will even close the user's window unexpectedly if he chooses "Cancel" when the second question twice in a row. Pretty ballsy, am I right?
 
-
-
+# Usage
+[]()
 # Technologies
-Project is created with:
-
-Visual Studio Code
-Changes made via GitBash
-Project changes saved to GitHub
-Referrals made possible via Google
+Javascript
 
 
 
