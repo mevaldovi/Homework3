@@ -1,8 +1,7 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> 662c68eda8421ff30bf029457b27594971429773
 # Homework3
+<img width="708" alt="PasswordGen" src="https://user-images.githubusercontent.com/83307023/135528546-ffe20fa3-9540-4f5a-9a20-58288f357343.PNG">
+
 
 ##The purpose of this project was to challenge the status quo of current Password Generators, and to get savage while doing so.
 
@@ -19,13 +18,6 @@ Changes made via GitBash
 Project changes saved to GitHub
 Referrals made possible via Google
 
-# Credits
-The following backdrop images were used: img src =(./Assets/03-javascript-homework-demo.png)
 
 
-# Collaborators
-<<<<<<< HEAD
-And many thanks to  my classmates Brandon, Jessamyn McTwigan, Jacob Guiro, Rico Perez, Carlos Perez, & Dave "Spoon"  for helping me out & sharing their ideas to push me to improve me more than I ever thought I could.
-=======
-And many thanks to  my classmates Brandon, Jessamyn McTwigan, Jacob Guiro, Rico Perez, Carlos Perez, & Dave "Spoon"  for helping me out & sharing their ideas to push me to improve me more than I ever thought I could.
->>>>>>> 662c68eda8421ff30bf029457b27594971429773
+
