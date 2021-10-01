@@ -1,5 +1,5 @@
 
-# Random Password Generator
+# Random-Password-Generator
 <img width="708" alt="PasswordGen" src="https://user-images.githubusercontent.com/83307023/135528546-ffe20fa3-9540-4f5a-9a20-58288f357343.PNG">
 
 
@@ -23,7 +23,7 @@ None at this time.
 Many thanks to [Jessamyn Mctwigan](https://github.com/jessamyn27) and [Jacob Guiro](https://github.com/Jguiro09) for helping me through this assingment and allowing me to use their code for better funcitonality. 
 #Contact 
 
-[Github](https://gthub.com/mevaldovi)
+[Github](https://github.com/mevaldovi)
 
 Shoot me an email:[mevaldovi@gmail.com](mevaldovi@gmail.com)
 
