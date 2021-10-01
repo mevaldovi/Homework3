@@ -21,7 +21,8 @@ None at this time.
 
 # Acknowledgments
 Many thanks to [Jessamyn Mctwigan](https://github.com/jessamyn27) and [Jacob Guiro](https://github.com/Jguiro09) for helping me through this assingment and allowing me to use their code for better funcitonality. 
-#Contact 
+
+# Contact 
 
 [Github](https://github.com/mevaldovi)
 
